@@ -1,2 +1,2 @@
 # heyitsalondra.github.io
-alondra.ml project (:
+alondra.cloud project (:
